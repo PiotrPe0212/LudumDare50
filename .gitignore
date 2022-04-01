@@ -1,0 +1,7 @@
+﻿LD50/Library
+LD50/Logs
+LD50/Temp
+LD50/UserSettings
+LD50/ProjectSettings
+*.csproj
+LD50/LD50.sln
